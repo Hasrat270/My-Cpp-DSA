@@ -1,31 +1,26 @@
-# C++ Compilation and IDE Patterns
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+.env.production
 
-# Compiled Object files
+# Build
+dist/
+build/
 *.o
-*.obj
-
-# Executables
 *.exe
-*.out
 
-# Debug files
-*.dSYM/
+# OS
+.DS_Store
+Thumbs.db
 
-# IDE files
+# IDE
 .vscode/
+.idea/
 *.swp
-*.swo
-*.idea/
 
-# Makefile
-Makefile
-Makefile.old
-
-# CMake files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-
-# Qt files
-*.pro.user
-*.pro.user.*
+# Logs
+*.log
+npm-debug.log*
