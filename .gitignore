@@ -1,0 +1,31 @@
+# C++ Compilation and IDE Patterns
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*.idea/
+
+# Makefile
+Makefile
+Makefile.old
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Qt files
+*.pro.user
+*.pro.user.*
