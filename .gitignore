@@ -11,6 +11,8 @@ dist/
 build/
 *.o
 *.exe
+*.out
+
 
 # OS
 .DS_Store
@@ -20,6 +22,8 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+.gitignore
+code.jpeg
 
 # Logs
 *.log
