@@ -1,36 +1,40 @@
-# 🚀 My-Cpp-DSA | Learning from Shraddha Khapra
+# My-Cpp-DSA
 
-Hello! 👋 Main apni **DSA (Data Structures and Algorithms)** ki journey ko is repository mein document kar raha hoon. Mera poora focus logic building aur problem-solving par hai, jo main **Shraddha Khapra (ex-Microsoft)** ke course se seekh raha hoon.
+> Developed by **Hasrat** | MERN Web Developer & Web App Penetration Tester
 
-## 👤 About Me
+## 📌 About
 
-- 🎓 **Identity:** Passionate Learner & Developer
-- 💻 **Language of Choice:** C++
-- 🎯 **Goal:** Software Engineering roles at top tech companies
-- 📚 **Focus:** Mastering DSA from basic to advanced levels
+This project is part of my development journey as a MERN Web Developer and Web Application Penetration Tester.
 
-## 🛠️ My Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- **Language:** C++17 / C++20
-- **Concepts:** Logic Building, Flowcharts, Memory Management
-- **Environment:** Visual Studio Code
-- **Compiler:** G++ (MinGW)
+- **Type:** Documentation
+- **Developer:** Hasrat270
+- **Focus:** Web Development & Security
 
-## 💡 Course Reference
+## 🚀 Getting Started
 
-Main **Apna College** ka structured curriculum follow kar raha hoon jisme:
+```bash
+# Clone the repository
+git clone https://github.com/Hasrat270/My-Cpp-DSA.git
 
-- **Mentor:** Shraddha Khapra (Former Software Engineer at Microsoft)
-- **Focus:** Optimized code and time complexity ($O(n)$ analysis)
+# Navigate to project
+cd My-Cpp-DSA
+```
 
----
+## 👨‍💻 About Me
 
-### 🤝 Let's Connect
+I'm Hasrat — a **MERN Web Developer** and **Web App Penetration Tester**.
 
-Aap mujhse niche diye gaye links ke zariye rabta kar sakte hain:
+- 🌐 Web Development: React, Node.js, Express, MongoDB
+- 🔐 Security: Web Application Penetration Testing, Bug Bounty
+- 📚 Currently: Expanding skills in both development and cybersecurity
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-skyblue?style=for-the-badge&logo=twitter)](https://x.com/Hasrat09042872)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/Hasrat09042872)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Hasrat09042872)
+## 📫 Contact
 
-_“Consistency is the key to mastering DSA!”_
+- **GitHub:** [Hasrat270](https://github.com/Hasrat270)
+- **Email:** hasrat3701@gmail.com
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
